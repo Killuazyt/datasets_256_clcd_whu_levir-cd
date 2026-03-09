@@ -13,7 +13,11 @@
 因为huggingface不让直连，而且我也需要图片的形式来使用，这里需要对其进行格式转换。
 
 parquet_to_images.py 是测试用的 直接使用另外两个即可
+自己修改路径即可
 
 ```python parquet_to_images_levir.py```
 
 ```parquet_to_images_clcd.py```
+
+## 整理好的上传链接
+暂时还没有去做
